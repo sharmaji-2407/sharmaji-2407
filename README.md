@@ -1,8 +1,8 @@
 
 # Hi there 👋,I am Prakhar.
 
-- 🔭 I’m currently working on Web Dev
-- 🌱 I’m currently learning React,NodeJS,DSA,Python,DBMS	
+- 💻 I’m currently working on Web Dev
+- 👨‍💻 I’m currently learning React,NodeJS,DSA,Python,DBMS	
 - 👯 I’m looking to collaborate on Websites
 - 🤔 I’m looking for help with Open-Source 
 - 📫 How to reach me on [Instagram](https://www.instagram.com/sharmaji_2407_/?hl=en)
