@@ -7,13 +7,7 @@
 - 🤔 I’m looking for help with Open-Source 
 - 📫 How to reach me on [Instagram](https://www.instagram.com/sharmaji_2407_/?hl=en)
 
-
-![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=sharmaji-2407&theme=lowcontrast&show_icons=true&count_private=)	
-
-
-![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaji-2407&layout=compact)
-
-<p align="left">
+<p align="left" style="color:red;">
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/prakhar-sharma-366687127/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek-kumar-dev" height="30" width="40" /></a>
