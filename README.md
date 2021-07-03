@@ -24,17 +24,19 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> alt="bootstrap" width="40" height="40"/>Bootstrap</a> 
-<a href="https://www.cprogramming.com/" target="_blank"> alt="c" width="40" height="40"/>C</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> alt="cplusplus" width="40" height="40"/>Cpp</a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank"> alt="django" width="40" height="40"/>Django</a> 
-<a href="https://expressjs.com" target="_blank">alt="express" width="40" height="40"/>Express.js</a>
-<a href="https://www.w3.org/html/" target="_blank"> alt="html5" width="40" height="40"/>HTML5</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">alt="javascript" width="40" height="40"/>JavaScript</a> 
-<a href="https://www.mongodb.com/" target="_blank">alt="mongodb" width="40" height="40"/>MongoDB</a> 
-<a href="https://www.mysql.com/" target="_blank"> alt="mysql" width="40" height="40"/>MySql</a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank">Bootstrap</a> 
+<a href="https://www.cprogramming.com/" target="_blank"> C</a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> Cpp</a> 
+<a href="https://www.djangoproject.com/" target="_blank">Django</a> 
+<a href="https://expressjs.com" target="_blank">/>Express.js</a>
+<a href="https://www.w3schools.com/css/" target="_blank"> />CSS3</a> 
+<a href="https://www.w3.org/html/" target="_blank">HTML5</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a> 
+<a href="https://www.mongodb.com/" target="_blank">MongoDB</a> 
+<a href="https://www.mysql.com/" target="_blank">MySql</a> 
+<a href="https://nodejs.org" target="_blank">Node.js</a> 
+<a href="https://www.python.org" target="_blank">Python </a> 
+<a href="https://reactjs.org/" target="_blank">React.js</a>  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaji-2407&layout=compact&theme=dracula" alt="sharmaji-2407" /></p>
 
