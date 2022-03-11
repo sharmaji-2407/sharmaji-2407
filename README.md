@@ -2,9 +2,9 @@
 # Hi there 👋,I am Prakhar.
 
 - 💻 I’m currently working on Web Dev
-- 👨‍💻 I’m currently learning React,NodeJS,DSA,Python,DBMS	
-- 👯 I’m looking to collaborate on Websites
-- 📫 How to reach me on [Instagram](https://www.instagram.com/sharmaji_2407_/?hl=en)
+- 👨‍💻 I’m currently learning Redux, Nextjs, Angular.
+- 👯 I’m looking to collaborate.
+- 📫 How to reach me on [Instagram](https://www.instagram.com/sharmaji.2407)
 
 <p align="center">
 <h3 align="left">Connect with me:</h3>
