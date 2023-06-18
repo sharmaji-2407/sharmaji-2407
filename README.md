@@ -1,8 +1,8 @@
 
 # Hi there 👋,I am Prakhar.
 
-- 💻 I’m currently working on Web Dev
-- 👨‍💻 I’m currently learning Redux, Nextjs, Angular.
+- 💻 I’m a full-stack developer.
+- 👨‍💻 I’m currently learning Typescript.
 - 👯 I’m looking to collaborate.
 - 📫 How to reach me on [Instagram](https://www.instagram.com/sharmaji.2407)
 
