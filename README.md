@@ -4,7 +4,7 @@
 - 💻 I’m a full-stack developer.
 - 👨‍💻 I’m currently learning Typescript.
 - 👯 I’m looking to collaborate.
-- 📫 How to reach me on [Instagram](https://www.instagram.com/sharmaji.2407)
+
 
 <p align="center">
 <h3 align="left">Connect with me:</h3>
